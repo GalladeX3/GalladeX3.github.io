@@ -58,7 +58,25 @@ section { padding: 2rem 0; }
 /* scroll behavior */
 html { scroll-behavior: smooth; }
 .site-header { position: sticky; top: 0; z-index: 10; }
+#projects, #about, #contact { scroll-margin-top: 80px; }
 
-/* Card hover */
-.card { transition: transform .12s ease, box-shadow .12s ease; }
-.card:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,.25); }
+/* Focus rings for keyboard users */
+a:focus-visible, button:focus-visible {
+  outline: 3px solid var(--brand);
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
+/* Card hover: subtle lift */
+.card { transition: transform .15s ease, box-shadow .15s ease; }
+.card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,.25); }
+
+/* Buttons: tiny refinement */
+.btn { box-shadow: 0 2px 0 rgba(0,0,0,.25); }
+.btn:active { transform: translateY(1px); box-shadow: 0 8px 1px 0 rgba(0,0,0,.25); }
+
+/* Mobile: make hero text fit better */
+@media (max-width: 480px) {
+  h1 { font-size: 1.75rem; }
+  .hero { padding-top: 1.75rem; }
+}
