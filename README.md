@@ -15,5 +15,7 @@ npx http-server .
 
 ## Screenshots
 
-<img width="1920" height="895" alt="portfolio-waldoxp" src="https://github.com/user-attachments/assets/f0cde321-5b9a-4c31-944b-3373bf906fc8" />
-<img width="1908" height="893" alt="portfolio-waldoxp-2" src="https://github.com/user-attachments/assets/35bb31d2-ba14-4f3b-a948-33d17ce78c26" />
+![Hero](./docs/portfolio-waldoxp.png)
+![Hero (variant)](./docs/portfolio-waldoxp-2.png)
+
+
