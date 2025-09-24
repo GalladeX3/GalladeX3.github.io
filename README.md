@@ -15,14 +15,14 @@ npx http-server .
 
 ## Screenshots
 
-![Hero section of WaldoXP Portfolio](./docs/Portfolio-WaldoXP.png)
-![Hero section of WaldoXP Portfolio](./docs/Portfolio-WaldoXP-2.png)
+![Hero section of WaldoXP Portfolio](./docs/portfolio-waldoxp.png)
+![Hero section of WaldoXP Portfolio](./docs/portfolio-waldoxp-2.png)
 ![Projects grid](./docs/waldoxp-projects.png)
 
 ## Screenshots
 
 <p align="center">
-  <img src="./docs/Portfolio-WaldoXP.png" alt="Hero section of WaldoXP Portfolio" width="49%" />
-   <img src="./docs/Portfolio-WaldoXP-2.png" alt="Hero section of WaldoXP Portfolio" width="49%" />
+  <img src="./docs/portfolio-waldoxp.png" alt="Hero section of WaldoXP Portfolio" width="49%" />
+   <img src="./docs/portfolio-waldoxp-2.png" alt="Hero section of WaldoXP Portfolio" width="49%" />
   <img src="./docs/waldoxp-projects.png" alt="Projects grid" width="49%" />
 </p>
