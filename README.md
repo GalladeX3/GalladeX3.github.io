@@ -14,12 +14,8 @@ Just open `index.html` in a browser, or use a simple static server:
 ```bash
 npx http-server .
 
-<div align="center">
-  <img src="./docs/portfolio-waldoxp.png" 
-  <img src="./docs/portfolio-waldoxp-2.png" 
-</div>
-MD
+## Screenshots
 
-git add README.md
-git commit -m "README: add screenshots block"
-git push
+![Hero](./docs/portfolio-waldoxp.png)
+![Hero (variant)](./docs/portfolio-waldoxp-2.png)
+
