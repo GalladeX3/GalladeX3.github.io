@@ -10,12 +10,12 @@ A simple, fast, mobile-first portfolio to showcase my projects and recent work.
 
 ## Local Dev
 Just open `index.html` in a browser, or use a simple static server:
+
 ```bash
 npx http-server .
 
-## Screenshots
-
-![Hero](./docs/portfolio-waldoxp.png)
-![Hero (variant)](./docs/portfolio-waldoxp-2.png)
-
+<div align="center">
+  <img src="./docs/portfolio-waldoxp.png" alt="Hero" width="48%">
+  <img src="./docs/portfolio-waldoxp-2.png" alt="Hero variant" width="48%">
+</div>
 
