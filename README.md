@@ -16,6 +16,7 @@ npx http-server .
 
 ## Screenshots
 
-![Hero](./docs/portfolio-waldoxp.png)
-![Hero (variant)](./docs/portfolio-waldoxp-2.png)
+
+![Hero](portfolio-waldoxp.png)
+![Hero (variant)](portfolio-waldoxp-2.png)
 
