@@ -18,4 +18,8 @@ npx http-server .
   <img src="./docs/portfolio-waldoxp.png" alt="Hero" width="48%">
   <img src="./docs/portfolio-waldoxp-2.png" alt="Hero variant" width="48%">
 </div>
+MD
 
+git add README.md
+git commit -m "README: add screenshots block"
+git push
