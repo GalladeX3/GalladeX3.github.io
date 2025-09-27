@@ -15,8 +15,8 @@ Just open `index.html` in a browser, or use a simple static server:
 npx http-server .
 
 <div align="center">
-  <img src="./docs/portfolio-waldoxp.png" alt="Hero" width="48%">
-  <img src="./docs/portfolio-waldoxp-2.png" alt="Hero variant" width="48%">
+  <img src="./docs/portfolio-waldoxp.png" 
+  <img src="./docs/portfolio-waldoxp-2.png" 
 </div>
 MD
 
